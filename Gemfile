@@ -4,6 +4,8 @@ gem 'rails', '4.2.4'
 gem 'sqlite3'
 gem 'monban', '0.2.1'
 gem 'monban-generators'
+gem 'paperclip', '4.3'
+gem 'rake', '10.5.0'
 
 group :assets do
   gem 'sass-rails', '~> 5.0'
